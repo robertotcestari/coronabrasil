@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "vue": "^2.6.11",
     "vue-hot-reload-api": "^2.3.4"
   },
